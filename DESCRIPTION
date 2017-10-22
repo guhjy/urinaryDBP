@@ -1,5 +1,5 @@
 Package: urinaryDBP
-Title: What the Package Does (one line, title case)
+Title: Analysis for my Master's thesis work on urinary vitamin D binding protein loss in patients at risk for diabetes.
 Version: 0.0.0.9000
 Authors@R: person("Windy", "Wang", email = "windy.wang@mail.utoronto.ca", role = c("aut", "cre"))
 Description: What the package does (one paragraph).
